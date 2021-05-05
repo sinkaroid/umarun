@@ -1,6 +1,6 @@
 # Umarun
 umarun = "**U**n**MAR**shal**U**(you)-**N**gentod", that's all  
-Simple implementation, how to decompile your friend's "rubish" code, 
+Simple implementation, how to decompile your friend's "rubbish" code, 
 
 > Oopss, either trash or logs inside isn't?  
 
