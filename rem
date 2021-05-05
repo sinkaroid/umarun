@@ -1,4 +1,4 @@
 #! /bin/bash
 git add .
-git commit -m "ci lemot anjng"
+git commit -m "chore: docs"
 git push -f origin master
